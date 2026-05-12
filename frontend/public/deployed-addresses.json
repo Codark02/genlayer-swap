@@ -1,0 +1,15 @@
+{
+  "network": "testnet-asimov",
+  "deployer": "",
+  "deployedAt": "",
+  "contracts": {
+    "ROUTER": "",
+    "USDT": "",
+    "USDC": "",
+    "WETH": "",
+    "GEN": "",
+    "POOL_USDT_GEN": "",
+    "POOL_WETH_GEN": "",
+    "POOL_USDC_GEN": ""
+  }
+}
